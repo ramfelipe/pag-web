@@ -1,0 +1,9 @@
+@font-face {
+	font-family:Bold;
+	src:url(../fonts/century/CenturySchL-Bold.ttf);
+}
+
+@font-face {
+	font-family:BoldItal;
+	src:url(../fonts/century/CenturySchL-BoldItal.ttf);
+}
